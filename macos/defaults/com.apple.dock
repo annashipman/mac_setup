@@ -1,0 +1,2 @@
+# Automatically hide the dock
+autohide -bool true

@@ -1,0 +1,8 @@
+# Tap to click
+com.apple.mouse.tapBehavior -int 1
+
+# Disable autocorrect
+NSAutomaticSpellingCorrectionEnabled -bool false
+
+# Disable "natural" aka WRONG mouse scrolling
+com.apple.swipescrolldirection -bool false
