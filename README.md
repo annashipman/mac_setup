@@ -34,6 +34,11 @@ Run the rest of the setup:
 MACOS_DEFAULTS_DIR=./macos/deafults suited main.conf
 ```
 
+Notes:
+
+VirtualBox will require approval and re-running of the script [because it installs a kernel extension](https://developer.apple.com/library/content/technotes/tn2459/_index.html).
+
 You will need to log out and back in to see some of the Mac settings change.
+
 
 Currently, caps lock to control and tap to click need to be set manually (the latter is set by this script but doesn't take effect - reason tbd).
