@@ -11,6 +11,16 @@ ssh-keygen -trsa -b4096 -C "$GIT_EMAIL" -f ~/.ssh/id_rsa
 ssh-add ~/.ssh/id_rsa
 ```
 
+As of MacOS Sierra, you also need to modify [`~/.ssh/config`](https://help.github.com/enterprise/2.12/user/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/).
+
+```
+Host *
+ AddKeysToAgent yes
+ UseKeychain yes
+ IdentityFile ~/.ssh/id_rsa
+```
+
+
 2. Add it to GitHub.
 
 To get it to the clipboard: `cat ~/.ssh/id_rsa.pub | pbcopy`.
