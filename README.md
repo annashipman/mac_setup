@@ -2,6 +2,10 @@
 
 For use with [suited](https://github.com/norm/suited).
 
+## Manual steps before `suited`
+
+1. [Install and set up 1Password](/docs/1Password_setup.md)
+
 ## Installing `suited` and initial setup
 
 1. Create a new SSH key for the new device and add it to the ssh-agent.
@@ -50,5 +54,17 @@ VirtualBox will require approval and re-running of the script [because it instal
 
 You will need to log out and back in to see some of the Mac settings change.
 
+## Manual steps after `suited`
 
-Currently, caps lock to control and tap to click need to be set manually (the latter is set by this script but doesn't take effect - reason tbd).
+1. Update github email address in `.gitconfig`.
+
+2. Set caps lock to control (System prefs -> keyboard -> Modifier keys)
+
+3. Set tap to click (System prefs -> keypad)
+
+4. Set up notes, calendar, reminders to sync (System Preferences -> iCloud -> uncheck the things then select the things I want to synch. (Messages is automatic.))
+
+5. Notes: File -> Preferences -> Order by title
+
+6. Stop notifications (System Preferences -> Notifications -> Do Not Disturb from 00:00 to 00:00)
+
