@@ -25,18 +25,18 @@ Host *
 
 To get it to the clipboard: `cat ~/.ssh/id_rsa.pub | pbcopy`.
 
-3. Run suited initial set-up. (This will also check out the `mac_settings` repo.
+3. Run suited initial set-up. (This will also check out the `mac_setup` repo.
 
 ```bash
 curl -O https://raw.githubusercontent.com/norm/suited/master/suited.sh
-bash suited.sh github:annashipman/mac_settings:initial_setup.conf
+bash suited.sh github:annashipman/mac_setup:initial_setup.conf
 ```
 
 ## Subsequent use of `suited` and rest of setup
 
 After installing:
 
-Move to the `mac_settings` directory.
+Move to the `mac_setup` directory.
 
 Run the rest of the setup:
 
