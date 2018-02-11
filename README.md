@@ -70,3 +70,8 @@ You will need to log out and back in to see some of the Mac settings change.
 
 7. Stop notifications (System Preferences -> Notifications -> Do Not Disturb from 00:00 to 00:00)
 
+8. Install [1Password browser extensions](https://agilebits.com/onepassword/extensions).
+
+9. Stop Firefox offering to remember passwords (3 bar menu -> Preferences -> Privacy and security -> Forms and passwords make sure "remember logins and passwords for sites" is unchecked.)
+
+10. Stop Chrome offering to remember passwords (Three dots menu -> Advanced (very bottom of page) -> Passwords and forms -> Manage passwords - make sure it is off).
