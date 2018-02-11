@@ -56,15 +56,17 @@ You will need to log out and back in to see some of the Mac settings change.
 
 ## Manual steps after `suited`
 
-1. Update github email address in `.gitconfig`.
+1. Move `FileVault Recovery Key.txt` from desktop to somewhere safe.
 
-2. Set caps lock to control (System prefs -> keyboard -> Modifier keys)
+2. Update github email address in `.gitconfig`.
 
-3. Set tap to click (System prefs -> keypad)
+3. Set caps lock to control (System prefs -> keyboard -> Modifier keys)
 
-4. Set up notes, calendar, reminders to sync (System Preferences -> iCloud -> uncheck the things then select the things I want to synch. (Messages is automatic.))
+4. Set tap to click (System prefs -> keypad)
 
-5. Notes: File -> Preferences -> Order by title
+5. Set up notes, calendar, reminders to sync (System Preferences -> iCloud -> uncheck the things then select the things I want to synch. (Messages is automatic.))
 
-6. Stop notifications (System Preferences -> Notifications -> Do Not Disturb from 00:00 to 00:00)
+6. Notes: File -> Preferences -> Order by title
+
+7. Stop notifications (System Preferences -> Notifications -> Do Not Disturb from 00:00 to 00:00)
 
