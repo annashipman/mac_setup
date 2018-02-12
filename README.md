@@ -68,7 +68,7 @@ You will need to log out and back in to see some of the Mac settings change.
 
 6. Notes: File -> Preferences -> Order by title
 
-7. Stop notifications (System Preferences -> Notifications -> Do Not Disturb from 00:00 to 00:00)
+7. Stop notifications (System Preferences -> Notifications -> Do Not Disturb from 00:00 to 23:59). There is a display bug that means this doesn't show up in System prefs but does if you look in the notifications menu (top right of screen).
 
 8. Install [1Password browser extensions](https://agilebits.com/onepassword/extensions).
 
