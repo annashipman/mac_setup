@@ -1,2 +1,5 @@
 # Automatically hide the dock
 autohide -bool true
+
+# Don't have dots to show active processes
+show-process-indicators -bool false
