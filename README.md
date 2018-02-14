@@ -75,3 +75,5 @@ You will need to log out and back in to see some of the Mac settings change.
 9. Stop Firefox offering to remember passwords (3 bar menu -> Preferences -> Privacy and security -> Forms and passwords make sure "remember logins and passwords for sites" is unchecked.)
 
 10. Stop Chrome offering to remember passwords (Three dots menu -> Advanced (very bottom of page) -> Passwords and forms -> Manage passwords - make sure it is off).
+
+11. Set iTerm to the right size (iTerm2 -> Preferences -> Profiles -> Default -> Window -> Columns: 170, Rows: 42)
