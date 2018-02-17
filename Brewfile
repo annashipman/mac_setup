@@ -9,3 +9,5 @@ cask "virtualbox"
 
 brew "wget"
 brew "tmux"
+
+mas "Amphetamine", id: 937984704
