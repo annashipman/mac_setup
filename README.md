@@ -25,7 +25,7 @@ Host *
 ```
 
 
-2. Add it to GitHub.
+2. Add it to GitHub. (Can also add it to Bitbucket as well while we're here).
 
 To get it to the clipboard: `cat ~/.ssh/id_rsa.pub | pbcopy`.
 
