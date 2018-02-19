@@ -1,0 +1,3 @@
+# Sets the default location on opening of Finder to the home directory
+
+NewWindowTarget -string 'PfHm'

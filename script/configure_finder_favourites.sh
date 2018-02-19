@@ -7,6 +7,7 @@ from FinderSidebarEditor import FinderSidebar
 sidebar = FinderSidebar()
 sidebar.remove('All My Files')
 sidebar.remove('Documents')
+sidebar.remove('myDocuments.cannedSearch')
 sidebar.add('$HOME')
 "
 
