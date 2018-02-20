@@ -7,6 +7,7 @@ cask "iterm2"
 cask "vagrant"
 cask "virtualbox"
 
+brew "pwgen"
 brew "wget"
 brew "tmux"
 
