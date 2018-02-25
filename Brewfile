@@ -1,15 +1,15 @@
 tap 'caskroom/versions'
 
-cask "google-chrome"
-cask "firefox"
-cask "waterfox"
+brew "pwgen"
+brew "tmux"
+brew "wget"
+
 cask "dropbox"
+cask "firefox"
+cask "google-chrome"
 cask "iterm2"
 cask "vagrant"
 cask "virtualbox"
-
-brew "pwgen"
-brew "wget"
-brew "tmux"
+cask "waterfox"
 
 mas "Amphetamine", id: 937984704
