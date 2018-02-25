@@ -2,6 +2,7 @@ tap 'caskroom/versions'
 
 cask "google-chrome"
 cask "firefox"
+cask "waterfox"
 cask "dropbox"
 cask "iterm2"
 cask "vagrant"

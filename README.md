@@ -77,3 +77,5 @@ You will need to log out and back in to see some of the Mac settings change.
 10. Stop Chrome offering to remember passwords (Three dots menu -> Advanced (very bottom of page) -> Passwords and forms -> Manage passwords - make sure it is off).
 
 11. Set iTerm to the right size (iTerm2 -> Preferences -> Profiles -> Default -> Window -> Columns: 170, Rows: 42)
+
+12. Install FireFTP: - go to [http://fireftp.net/](http://fireftp.net) in Waterfox -> Download -> Add to Firefox [sic]
