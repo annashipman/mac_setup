@@ -1,0 +1,3 @@
+ShowPercent -bool true
+
+KILL SystemUIServer
