@@ -74,6 +74,8 @@ You will need to log out and back in to see some of the Mac settings change.
 
 1. Install [1Password browser extensions](https://agilebits.com/onepassword/extensions).
 
+1. Stop Firefox showing recently visited pages (3 bar menu -> Preferences -> When Firefox starts: show your homepage: https://start.duckduckgo.com/) and on new tabs (there is a settings cog on new tabs).
+
 1. Stop Firefox offering to remember passwords (3 bar menu -> Preferences -> Privacy and security -> Forms and passwords make sure "remember logins and passwords for sites" is unchecked.) Also, [set default search to DuckDuckGo](about:preferences#search).
 
 1. Stop Chrome offering to remember passwords (Three dots menu -> Advanced (very bottom of page) -> Passwords and forms -> Manage passwords - make sure it is off).
