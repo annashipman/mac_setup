@@ -1,3 +1,5 @@
+# Show percentage of battery remaining
+
 ShowPercent -bool true
 
 KILL SystemUIServer

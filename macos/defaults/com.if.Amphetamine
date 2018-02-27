@@ -1,3 +1,5 @@
+# Amphetamine defaults
+
 "Show Welcome Window" -int 0
 "Show Dock Icon" -int 0
 "Start Session At Launch" -int 1
