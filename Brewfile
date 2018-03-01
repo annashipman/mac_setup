@@ -1,5 +1,9 @@
 tap 'caskroom/versions'
 
+# Ruby env
+brew "chruby"
+brew "ruby-install"
+
 brew "pwgen"
 brew "tmux"
 brew "wget"

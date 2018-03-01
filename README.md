@@ -54,6 +54,15 @@ VirtualBox will require approval and re-running of the script [because it instal
 
 You will need to log out and back in to see some of the Mac settings change.
 
+## Installing Ruby
+
+This is a separate script as it takes AGES. Do when you're about to make a cup of tea.
+
+```
+suited ruby.conf
+```
+
+
 ## Manual steps after `suited`
 
 1. Move `FileVault Recovery Key.txt` from desktop to somewhere safe.
