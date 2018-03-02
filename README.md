@@ -93,3 +93,9 @@ suited ruby.conf
 
 1. Install FireFTP: - go to [http://fireftp.net/](http://fireftp.net) in Waterfox -> Download -> Add to Firefox [sic]
 
+1. Block Twitter in `/etc/hosts` (can be commented out of course):
+
+```
+127.0.0.1  https://twitter.com
+127.0.0.1  twitter.com
+```
