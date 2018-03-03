@@ -89,7 +89,9 @@ suited ruby.conf
 
 1. Stop Chrome offering to remember passwords (Three dots menu -> Advanced (very bottom of page) -> Passwords and forms -> Manage passwords - make sure it is off).
 
-1. Set iTerm to the right size (iTerm2 -> Preferences -> Profiles -> Default -> Window -> Columns: 170, Rows: 42)
+1. Set iTerm to the right size (iTerm2 -> Preferences -> Profiles -> Default ->
+Window -> Columns: 170, Rows: 42). Also, set Working directory to 'Reuse
+previous session's directory'.
 
 1. Install FireFTP: - go to [http://fireftp.net/](http://fireftp.net) in Waterfox -> Download -> Add to Firefox [sic]
 
