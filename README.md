@@ -95,8 +95,12 @@ previous session's directory'.
 
 1. Install FireFTP: - go to [http://fireftp.net/](http://fireftp.net) in Waterfox -> Download -> Add to Firefox [sic]
 
-1. Block Twitter in `/etc/hosts` (can be commented out of course):
+1. Set up my server. Put config into the `~/.ssh/config` file (required config
+is in 1Password). SSH to the machine as root and paste the new public key into
+Puppet (`cat ~/.ssh/id_rsa.pub | pbcopy`), and then run puppet (`puppet apply -v
+puppet/annajunior.pp`).
 
+1. Block Twitter in `/etc/hosts` (can be commented out of course):
 ```
 127.0.0.1  https://twitter.com
 127.0.0.1  twitter.com
