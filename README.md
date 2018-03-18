@@ -105,3 +105,7 @@ puppet/annajunior.pp`).
 127.0.0.1  https://twitter.com
 127.0.0.1  twitter.com
 ```
+
+## Optional
+
+1. Install Xcode - this can be done in the Brewfile but takes a long time so better to do manually via the AppStore when needed.
