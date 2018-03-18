@@ -45,7 +45,7 @@ Move to the `mac_setup` directory.
 Run the rest of the setup:
 
 ```
-MACOS_DEFAULTS_DIR=./macos/deafults suited main.conf
+MACOS_DEFAULTS_DIR=./macos/defaults suited main.conf
 ```
 
 Notes:
