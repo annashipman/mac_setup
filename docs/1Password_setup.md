@@ -1,6 +1,6 @@
 # 1Password setup
 
-1. [Download 1Password](https://1password.com/downloads/)
+1. [Download 1Password from the AgileBits store](https://1password.com/downloads/)
 
 2. Set up a standalone vault
 
