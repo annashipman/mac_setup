@@ -75,7 +75,7 @@ suited ruby.conf
 
 1. Remap external keyboard keys (caps lock -> control, alt -> apple, apple -> alt)
 
-1. Set tap to click (System prefs -> keypad)
+1. Set tap to click and uncheck 'Force click and haptic feedback' (System prefs -> keypad)
 
 1. Set up notes, calendar, reminders to sync (System Preferences -> iCloud -> uncheck the things then select the things I want to synch. (Messages is automatic.))
 
@@ -103,10 +103,12 @@ Puppet (`cat ~/.ssh/id_rsa.pub | pbcopy`), and then run puppet (`puppet apply -v
 puppet/annajunior.pp`).
 
 1. Block Twitter in `/etc/hosts` (can be commented out of course):
-```
-127.0.0.1  https://twitter.com
-127.0.0.1  twitter.com
-```
+  ```
+  127.0.0.1  https://twitter.com
+  127.0.0.1  twitter.com
+  ```
+
+1. Copy over required files from old computer: `Pictures`, `Movies`, `~/anna`, in progress stuff in `projects` and if relevant, `Desktop`.
 
 ## Optional
 
