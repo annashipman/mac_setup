@@ -24,3 +24,5 @@ Go to Preferences > Sync - select Folder sync, select the 1Password folder you j
 
 Then disable sync on both, and immediately run a back up on the new Mac
 ```
+
+5. Set it up not to auto-submit: 1Password -> Preferences -> Browsers -> uncheck Automatically sign in...
