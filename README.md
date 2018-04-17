@@ -110,6 +110,8 @@ puppet/annajunior.pp`).
 
 1. Copy over required files from old computer: `Pictures`, `Movies`, `~/anna`, in progress stuff in `projects` and if relevant, `Desktop`.
 
+Note: if copying over a project with an existing VM, it won't run out of the box. You need to [update the `creator_uid`](https://github.com/hashicorp/vagrant/issues/8630#issuecomment-314219746).
+
 ## Optional
 
 1. Install Xcode - this can be done in the Brewfile but takes a long time so better to do manually via the AppStore when needed.
