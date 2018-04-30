@@ -12,6 +12,5 @@ cask "dropbox"
 cask "iterm2"
 cask "vagrant"
 cask "virtualbox"
-cask "waterfox"
 
 mas "Amphetamine", id: 937984704

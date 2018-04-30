@@ -95,8 +95,6 @@ suited ruby.conf
 Window -> Columns: 170, Rows: 42). Also, set Working directory to 'Reuse
 previous session's directory'.
 
-1. Install FireFTP: - go to [http://fireftp.net/](http://fireftp.net) in Waterfox -> Download -> Add to Firefox [sic]
-
 1. Set up my server. Put config into the `~/.ssh/config` file (required config
 is in 1Password). SSH to the machine as root and paste the new public key into
 Puppet (`cat ~/.ssh/id_rsa.pub | pbcopy`), and then run puppet (`puppet apply -v
