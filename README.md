@@ -12,6 +12,7 @@ For use with [suited](https://github.com/norm/suited).
 
 ```
 ssh-keygen -trsa -b4096 -C "$GIT_EMAIL" -f ~/.ssh/id_rsa
+chmod 400 ~/.ssh/id_rsa
 ssh-add ~/.ssh/id_rsa
 ```
 
