@@ -84,6 +84,8 @@ suited ruby.conf
 
 1. Notes: File -> Preferences -> Order by title
 
+1. Install Things from the Mac App store and log in (Things -> Preferences -> Things Cloud). Set it not to display number of items (Preferences -> General -> Badge count).
+
 1. Stop notifications (System Preferences -> Notifications -> Do Not Disturb from 00:00 to 23:59). There is a display bug that means this doesn't show up in System prefs but does if you look in the notifications menu (top right of screen).
 
 1. Install [1Password browser extensions](https://agilebits.com/onepassword/extensions).
@@ -96,7 +98,7 @@ suited ruby.conf
 
 1. Stop Chrome offering to remember passwords (Three dots menu -> Settings -> Passwords -> Unselect "Offer to save passwords"
 
-1. Set iTerm to the right size (iTerm2 -> Preferences -> Profiles -> Default -> Window -> Columns: 170, Rows: 42). Also, set Working directory to 'Reusea previous session's directory' (in General tab under Default profile).
+1. Set iTerm to the right size (iTerm2 -> Preferences -> Profiles -> Default -> Window -> Columns: 170, Rows: 42). Also, set Working directory to 'Reuse previous session's directory' (in General tab under Default profile).
 
 1. Set up my server. Put config into the `~/.ssh/config` file (required config is in 1Password). Copy the new public key ( `cat ~/.ssh/id_rsa.pub | pbcopy` ), SSH to the machine as root and paste the new public key into Puppet, and then run puppet (`puppet apply -v puppet/annajunior.pp`). Note: need to remove entire comment at the end as Puppet doesn't like the whitespace.
 
