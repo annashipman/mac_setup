@@ -4,7 +4,7 @@ tap 'caskroom/versions'
 brew "chruby"
 brew "ruby-install"
 
-brew "pwgen"
+# brew "pwgen"
 brew "tmux"
 brew "wget"
 
