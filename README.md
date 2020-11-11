@@ -26,7 +26,7 @@ Host *
 ```
 
 
-2. Add it to GitHub. (Can also add it to Bitbucket as well while we're here).
+2. Add it to GitHub.
 
 To get it to the clipboard: `cat ~/.ssh/id_rsa.pub | pbcopy`.
 
@@ -101,6 +101,8 @@ suited ruby.conf
 1. Set iTerm to the right size (iTerm2 -> Preferences -> Profiles -> Default -> Window -> Columns: 170, Rows: 42). Also, set Working directory to 'Reuse previous session's directory' (in General tab under Default profile).
 
 1. Set up my server. Put config into the `~/.ssh/config` file (required config is in 1Password). Copy the new public key ( `cat ~/.ssh/id_rsa.pub | pbcopy` ), SSH to the machine as root and paste the new public key into Puppet, and then run puppet (`puppet apply -v puppet/annajunior.pp`). Note: need to remove entire comment at the end as Puppet doesn't like the whitespace.
+
+1. Add SSH key to Bitbucket (profile is hidden at the bottom left).
 
 1. Copy over required files from old computer: `Pictures`, `Movies`, `~/anna`, in progress stuff in `projects` and if relevant, `Desktop`.
 
