@@ -2,7 +2,7 @@
 
 curl -s -O https://raw.githubusercontent.com/robperc/FinderSidebarEditor/master/FinderSidebarEditor.py
 
-python -c "
+python3 -c "
 from FinderSidebarEditor import FinderSidebar
 sidebar = FinderSidebar()
 sidebar.remove('All My Files')

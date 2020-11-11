@@ -4,6 +4,8 @@ tap 'homebrew/cask-versions'
 brew "chruby"
 brew "ruby-install"
 
+brew "python"
+
 # brew "pwgen"
 brew "tmux"
 brew "wget"
