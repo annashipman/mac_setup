@@ -97,7 +97,7 @@ You will need to log out and back in to see some of the Mac settings change.
 
 1. Copy over required files from old computer: `Pictures`, `Movies`, `~/anna`, in progress stuff in `projects` and if relevant, `Desktop`.
 
-Note: if copying over a project with an existing VM, it won't run out of the box. You need to [update the `creator_uid`](https://github.com/hashicorp/vagrant/issues/8630#issuecomment-314219746).
+   Note: if copying over a project with an existing VM, it won't run out of the box. You need to [update the `creator_uid`](https://github.com/hashicorp/vagrant/issues/8630#issuecomment-314219746).
 
 1. Finally, install Ruby. This is a separate script as it takes AGES. Do when you're about to make a cup of tea.
 
