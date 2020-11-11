@@ -1,4 +1,4 @@
-tap 'caskroom/versions'
+tap 'homebrew/cask-versions'
 
 # Ruby env
 brew "chruby"
