@@ -10,7 +10,6 @@ brew "python"
 brew "tmux"
 brew "wget"
 
-cask "dropbox"
 cask "firefox"
 cask "google-chrome"
 cask "iterm2"
