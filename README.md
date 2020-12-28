@@ -89,7 +89,7 @@ You will need to log out and back in to see some of the Mac settings change.
 
 1. Stop Chrome offering to remember passwords (Three dots menu -> Settings -> Passwords -> Unselect "Offer to save passwords"
 
-1. Set iTerm to the right size (iTerm2 -> Preferences -> Profiles -> Default -> Window -> Columns: 170, Rows: 42). Also, set Working directory to 'Reuse previous session's directory' (in General tab under Default profile).
+1. Set iTerm to the right size (iTerm2 -> Preferences -> Profiles -> Default -> Window -> Columns: 170, Rows: 42). Also, set Working directory to 'Reuse previous session's directory' (in General tab under Default profile) and turn off the bell for events such as auto-completion not available (In Terminal tab under Default profile -> Notifications -> Silence bell)
 
 1. Set up my server. Put config into the `~/.ssh/config` file (required config is in 1Password). Copy the new public key ( `cat ~/.ssh/id_rsa.pub | pbcopy` ), SSH to the machine as root and paste the new public key into Puppet, and then run puppet (`puppet apply -v puppet/annajunior.pp`). Note: need to remove entire comment at the end as Puppet doesn't like the whitespace.
 
