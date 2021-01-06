@@ -11,7 +11,6 @@ brew "tmux"
 brew "wget"
 
 cask "firefox"
-cask "google-chrome"
 cask "iterm2"
 cask "vagrant"
 cask "virtualbox"
