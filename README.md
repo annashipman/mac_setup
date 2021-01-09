@@ -65,17 +65,19 @@ You will need to log out and back in to see some of the Mac settings change.
 
 1. Update github email address in `.gitconfig`.
 
+1. Set default shell back to bash. `chsh -s /bin/bash`
+
 1. Set caps lock to control (System prefs -> keyboard -> Modifier keys)
 
 1. Remap external keyboard keys (caps lock -> control, alt [option] -> apple [command], apple -> alt)
 
-1. Set tap to click and uncheck 'Force click and haptic feedback' (System prefs -> keypad)
+1. Uncheck 'Force click and haptic feedback' (System prefs -> keypad). Also check that tap to click is set (used to have to do this manually but I think suited now does this correctly).
 
 1. Set up notes, calendar, reminders to sync (System Preferences -> iCloud -> uncheck the things then select the things I want to synch. (Messages is automatic.))
 
 1. Notes: File -> Preferences -> Order by title
 
-1. Install Things from the Mac App store and log in (Things -> Preferences -> Things Cloud). Set it not to display number of items (Preferences -> General -> Badge count).
+1. Install Things from the Mac App store (go to my account, change who purchsed by) and log in (Things -> Preferences -> Things Cloud). Set it not to display number of items (Preferences -> General -> Badge count).
 
 1. Stop notifications (System Preferences -> Notifications -> Do Not Disturb from 00:00 to 23:59). There is a display bug that means this doesn't show up in System prefs but does if you look in the notifications menu (top right of screen).
 
