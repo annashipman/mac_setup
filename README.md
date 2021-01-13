@@ -81,6 +81,8 @@ You will need to log out and back in to see some of the Mac settings change.
 
 1. Stop notifications (System Preferences -> Notifications -> Do Not Disturb from 00:00 to 23:59). There is a display bug that means this doesn't show up in System prefs but does if you look in the notifications menu (top right of screen).
 
+1. Stop interface sounds (System Preferences -> Sounds -> uncheck interface sounds). This could probably be automated but I don't have time to figure out how right now.
+
 1. Install [1Password browser extensions](https://agilebits.com/onepassword/extensions).
 
 1. Stop Firefox showing recently visited pages (3 bar menu -> Preferences -> Home, update Homepage and New tabs).
