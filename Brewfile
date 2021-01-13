@@ -6,7 +6,7 @@ brew "ruby-install"
 
 brew "python"
 
-# brew "pwgen"
+brew "pwgen"
 brew "tmux"
 brew "wget"
 
