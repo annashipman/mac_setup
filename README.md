@@ -103,6 +103,8 @@ You will need to log out and back in to see some of the Mac settings change.
 
    Note: if copying over a project with an existing VM, it won't run out of the box. You need to [update the `creator_uid`](https://github.com/hashicorp/vagrant/issues/8630#issuecomment-314219746).
 
+1. Install backblaze. Can brew install --cask, but it downloads an installer that you then have to open, so this is a manual step, for now. Also set up Time MAchine back ups.
+
 1. Finally, install Ruby. This is a separate script as it takes AGES. Do when you're about to make a cup of tea.
 
 ```
