@@ -75,6 +75,8 @@ You will need to log out and back in to see some of the Mac settings change.
 
 1. Set up notes, calendar, reminders to sync (System Preferences -> iCloud -> uncheck the things then select the things I want to synch. (Messages is automatic.))
 
+1. Add a shortcut for strikethrough (System Preferences -> Keyboard -> Shortcuts tab -> App Shortcuts -> + -> ⇧⌘X)
+
 1. Notes: File -> Preferences -> Order by title
 
 1. Install Things from the Mac App store (go to my account, change who purchsed by) and log in (Things -> Preferences -> Things Cloud). Set it not to display number of items (Preferences -> General -> Badge count).
