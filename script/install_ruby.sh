@@ -1,5 +1,5 @@
 #!/bin/sh
 
-ruby-install ruby-2.5.0
-~/.rubies/ruby-2.5.0/bin/gem install bundler
+ruby-install ruby-3.1.1
+~/.rubies/ruby-3.1.1/bin/gem install bundler
 gem update --system
