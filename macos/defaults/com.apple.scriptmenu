@@ -1,3 +1,0 @@
-# Do not show the other library scripts in the menu - just the one we've written
-
-ShowLibraryScripts -bool false
