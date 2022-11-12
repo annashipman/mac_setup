@@ -13,6 +13,6 @@ brew "wget"
 cask "firefox"
 cask "iterm2"
 cask "vagrant"
-cask "virtualbox"
+#cask "virtualbox"
 
 mas "Amphetamine", id: 937984704
