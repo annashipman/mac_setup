@@ -63,6 +63,8 @@ You will need to log out and back in to see some of the Mac settings change.
 
 1. 'Dockutil' currently commented out; so manually remove everything from the dock except for Notes, Firefox, iTerm and Chrome.
 
+1. Right click on Dock, settings, can change size of icons and also uncheck 'show recent applications in Dock'
+
 1. Set iTerm to the right size (iTerm2 -> Settings -> Profiles -> Default -> Window -> Columns: 170, Rows: 42). Also, set Working directory to 'Reuse previous session's directory' (in General tab under Default profile) and turn off the bell for events such as auto-completion not available (In Terminal tab under Default profile -> Notifications -> Silence bell)
 
 1. Update github email address in `.gitconfig`.
