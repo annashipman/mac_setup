@@ -39,6 +39,8 @@ curl -O https://raw.githubusercontent.com/norm/suited/master/suited.sh
 bash suited.sh github:annashipman/mac_setup:initial_setup.conf
 ```
 
+*Note* this will fail on the last command; currently reworking this but until then the workaround is to create the folders it wants and move `suited` there.
+
 ## Subsequent use of `suited` and rest of setup
 
 After installing:
