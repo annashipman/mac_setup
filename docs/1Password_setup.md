@@ -12,7 +12,7 @@
 On old Mac:
 Create a folder on Desktop called 1Password.
 Run 1Password
-Go to Preferences > Sync - select Folder sync, select the 1Password folder you just created.
+Go to Settings > Sync - select Folder sync, select the 1Password folder you just created.
 Allow time for the sync.
 Quit 1Password.
 
@@ -20,9 +20,9 @@ Copy that 1Password folder from your old Mac to your new Mac (can use Airdrop).
 
 On new Mac:
 Run 1Password
-Go to Preferences > Sync - select Folder sync, select the 1Password folder you just copied over from your old Mac
+Go to Settings > Sync - select Folder sync, select the 1Password folder you just copied over from your old Mac
 
 Then disable sync on both, and immediately run a back up on the new Mac
 ```
 
-5. Set it up not to auto-submit: 1Password -> Preferences -> Browsers -> uncheck Automatically sign in...
+5. Set it up not to auto-submit: 1Password -> Settings -> Browsers -> uncheck Automatically sign in...
