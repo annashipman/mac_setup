@@ -57,7 +57,7 @@ You will need to log out and back in to see some of the Mac settings change.
 
 ## Manual steps after `suited`
 
-1. Move `FileVault Recovery Key.txt` from desktop to somewhere safe. (Not relevant if not encrypting the disk, see above. It will still be created but will be empty.)
+1. Go to settings, security, turn off FileVault and then turn it on again and allow apple ID to unlock it.
 
 1. Update github email address in `.gitconfig`.
 
