@@ -57,7 +57,9 @@ You will need to log out and back in to see some of the Mac settings change.
 
 ## Manual steps after `suited`
 
-1. Go to settings, security, turn off FileVault and then turn it on again and allow apple ID to unlock it.
+1. Go to settings, security, turn off FileVault and then turn it on again and allow apple ID to unlock it. This is a manual step, pending rewriting how this all works.
+
+1. 'Dockutil' currently commented out; so manually remove everything from the dock except for Notes, Firefox, iTerm and Chrome.
 
 1. Set iTerm to the right size (iTerm2 -> Settings -> Profiles -> Default -> Window -> Columns: 170, Rows: 42). Also, set Working directory to 'Reuse previous session's directory' (in General tab under Default profile) and turn off the bell for events such as auto-completion not available (In Terminal tab under Default profile -> Notifications -> Silence bell)
 
