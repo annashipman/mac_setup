@@ -30,8 +30,6 @@ Host *
 
 To get it to the clipboard: `cat ~/.ssh/id_rsa.pub | pbcopy`.
 
-3. Check whether Firefox and Chrome are installed. If they are not, then add them back in (See [the commit where they were removed for futher info](https://github.com/annashipman/mac_setup/commit/2debeb7))
-
 4. Check whether you want full disk encryption (probably yes for own computer, no for shared computer, see [this commit](https://github.com/annashipman/mac_setup/commit/3e3edf3))
 
 5. Run suited initial set-up. (This will also check out the `mac_setup` repo.)
