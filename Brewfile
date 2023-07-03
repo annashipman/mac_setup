@@ -10,7 +10,7 @@ brew "pwgen"
 brew "tmux"
 brew "wget"
 
-cask "chrome"
+cask "google-chrome"
 cask "firefox"
 cask "iterm2"
 cask "vagrant"
