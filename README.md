@@ -81,11 +81,11 @@ You will need to log out and back in to see some of the Mac settings change.
 
 1. Install Things from the Mac App store (go to my account, change who purchsed by) and log in (Things -> settings -> Things Cloud). Set it not to display number of items (settings -> General -> Badge count).
 
-1. Stop notifications (System settings -> Focus -> Do Not Disturb -> Set a schedule -> from 00:00 to 23:59).
+1. Stop notifications - go through all apps and turn them off.
 
 1. Stop interface sounds (System settings -> Sounds -> uncheck interface sounds). This could probably be automated but I don't have time to figure out how right now.
 
-1. Install [1Password browser extensions](https://agilebits.com/onepassword/extensions).
+1. Install Firefox 1Password browser extension by copying file from computer. 
 
 1. Stop Firefox showing recently visited pages (3 bar menu -> settings -> Home, update Homepage and New tabs).
 
