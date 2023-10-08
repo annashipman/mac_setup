@@ -1,5 +1,7 @@
 # Setting up a new Mac
 
+*NB* Suited is no longer maintained, could use [Steve's mac_setup](https://github.com/SteveMarshall/mac-setup)
+
 For use with [suited](https://github.com/norm/suited).
 
 ## Manual steps before `suited`
